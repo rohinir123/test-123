@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Hi this is in feature1 and file1
 testing for git merge
 this is for to check  merge conflict
+=======
+hello
+this is for feature 2 mercge conflict
+>>>>>>> feature2
